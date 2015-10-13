@@ -1,4 +1,4 @@
-var ratio=1.0/3.0;
+var ratio=1.6/3.0;
 var dist=function(elements) {
     var index=0;
     var r=Math.random();
